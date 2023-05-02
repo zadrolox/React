@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: gray;
+    padding: 15px;
+}
+
+.header h1{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+.header .social a {
+    padding: 0 5px;
+    text-decoration: none;
+}
